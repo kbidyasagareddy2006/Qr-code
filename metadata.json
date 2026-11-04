@@ -1,0 +1,6 @@
+{
+  "name": "VektorQR - Pro QR Generator & Scanner",
+  "description": "Production-grade QR code generator, live camera scanner, custom designer, and poster creator with vector export and local history.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
